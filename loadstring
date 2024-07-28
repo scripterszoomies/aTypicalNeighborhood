@@ -13,12 +13,12 @@ local utility = {}
 -- themes
 local objects = {}
 local themes = {
-    Background = Color3.fromRGB(45, 0, 0),      -- Dark red background
-    Glow = Color3.fromRGB(30, 0, 0),            -- Slightly darker red for glow
-    Accent = Color3.fromRGB(60, 0, 0),          -- Dark red for accent
-    LightContrast = Color3.fromRGB(50, 0, 0),   -- Light dark red for contrast
-    DarkContrast = Color3.fromRGB(35, 0, 0),    -- Darker red for contrast
-    TextColor = Color3.fromRGB(255, 255, 255)   -- White text for readability
+	Background = Color3.fromRGB(61, 60, 124), 
+	Glow = Color3.fromRGB(60, 63, 221), 
+	Accent = Color3.fromRGB(55, 52, 90), 
+	LightContrast = Color3.fromRGB(64, 65, 128), 
+	DarkContrast = Color3.fromRGB(32, 33, 64),  
+	TextColor = Color3.fromRGB(255, 255, 255)
 }
 
 do
